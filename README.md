@@ -36,3 +36,9 @@ PatchTool使用了蓝图和C++，Github的LFS使用付费，是一个臃肿的�
 3.PatchTool免费嘛？
 
 PatchTool完全免费
+
+4.PatchTool开源信息
+
+请遵守相关规定
+
+https://www.bilibili.com/video/BV1jKEoznEi9
