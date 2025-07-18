@@ -42,3 +42,12 @@ PatchTool完全免费
 请遵守相关规定
 
 https://www.bilibili.com/video/BV1jKEoznEi9
+
+https://pan.baidu.com/s/1as5RrazTPWztxxwW0U_4Gw?pwd=kbgb
+
+里面使用到了一些商业插件，侵联删。
+
+5.未来更新计划
+
+1.软件用C++层面重新写一遍
+
