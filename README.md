@@ -10,6 +10,8 @@ PatchTool可以比较两个文件夹之间的插件，并且生成差异文件�
 
 本人的单机游戏采用了这种方式：https://docs.qq.com/sheet/DWUZLYUJtSUtGbnhK?tab=BB08J2
 
+一个简单的附赠文档：https://docs.qq.com/doc/DWVhaTUtTTlRXV1VX
+
 补丁更新功能：
 
 选择[Release[Old]] 即是旧的游戏文件，如果选择正确会出现对应的版本号，如果制作者第一次没有加入版本号，那么最原始的第一个版本是没有版本号的，确定路径正确即可。
